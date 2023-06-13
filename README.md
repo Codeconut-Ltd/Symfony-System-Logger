@@ -30,13 +30,14 @@ Use cases
 
 ### Requirements
 
-- Symfony 3.4 or higher
+- Symfony `3.4` or higher
 - Doctrine ORM
 
 ## Use
 
 1. Implement in your Symfony application
-2. Test via command `./bin/console test:systemlogs`
+2. Update Doctrine schema
+3. Test via command `./bin/console test:systemlogs`
 
 ## Todo
 

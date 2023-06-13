@@ -1,0 +1,55 @@
+{
+	"editor.formatOnPaste": false,
+	"editor.formatOnSave": true,
+	"editor.formatOnType": false,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.useTabStops": false,
+	"editor.quickSuggestions": {
+		"comments": true,
+		"other": true,
+		"strings": true
+	},
+	"files.trimFinalNewlines": true,
+	"files.trimTrailingWhitespace": true,
+	"files.associations": {
+		"*.html": "twig",
+		"*.html.twig": "twig",
+		"*.twig": "twig",
+		".*intrc": "json",
+		"*.php": "php"
+	},
+	"css.validate": false,
+	"json.format.enable": true,
+	"less.validate": false,
+	"javascript.validate.enable": false,
+	"php.suggest.basic": false,
+	"scss.validate": false,
+	"[markdown]": {
+		"editor.acceptSuggestionOnEnter": "off"
+	},
+	"[php]": {
+		"editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+		"editor.insertSpaces": true,
+	},
+	"[twig]": {
+		"editor.defaultFormatter": "mblode.twig-language-2",
+		"editor.insertSpaces": true,
+	},
+	"emmet.includeLanguages": {
+		"twig": "html"
+	},
+	"intelephense.files.exclude": [
+		"**/.git/**",
+		"**/.svn/**",
+		"**/.hg/**",
+		"**/CVS/**",
+		"**/.DS_Store/**",
+		"**/node_modules/**",
+		"**/bower_components/**",
+		"**/vendor/**/{Test,test,Tests,tests}/**/*Test.php"
+	],
+	"path-intellisense.mappings": {
+		"vendor": "${workspaceFolder}/vendor"
+	}
+}

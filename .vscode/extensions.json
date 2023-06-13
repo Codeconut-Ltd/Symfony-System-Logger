@@ -1,0 +1,18 @@
+{
+	"recommendations": [
+		"bmewburn.vscode-intelephense-client",
+		"christian-kohler.path-intellisense",
+		"dbaeumer.vscode-eslint",
+		"duboiss.sf-pack",
+		"editorconfig.editorconfig",
+		"ikappas.phpcs",
+		"mblode.twig-language-2",
+		"mehedidracula.php-namespace-resolver",
+		"mkaufman.htmlhint",
+		"nadim-vscode.symfony-code-snippets",
+		"nadim-vscode.symfony-super-console",
+		"stylelint.vscode-stylelint",
+		"thenouillet.symfony-vscode",
+		"valeryanm.vscode-phpsab"
+	]
+}

@@ -1,3 +1,5 @@
+![Symfony](teaser.png)
+
 # Symfony System Logger
 
 TOC
